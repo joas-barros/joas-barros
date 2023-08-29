@@ -5,8 +5,10 @@
 
 
 # Github stats
-<img height="160 em" src="https://github-readme-stats.vercel.app/api?username=joas-barros&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true">
-<img height="160 em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joas-barros&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF">
+<div style="display: inline_block">
+    <img height="140 em" src="https://github-readme-stats.vercel.app/api?username=joas-barros&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true">
+    <img height="140 em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joas-barros&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF">
+</div>
 
 
 # Minhas Contribuições
@@ -15,23 +17,26 @@
 
 
 # Principais ferramentas
-<img align="center" alt="Joas-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
-<img align="center" alt="Joas-py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Joas-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> 
-<img align="center" alt="Joas-windowns" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"> 
-<img align="center" alt="Joas-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-<img align="center" alt="Joas-github" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg">
+<div style="display: inline_block">
+    <img align="center" alt="Joas-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
+    <img align="center" alt="Joas-py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Joas-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> 
+    <img align="center" alt="Joas-windowns" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"> 
+    <img align="center" alt="Joas-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img align="center" alt="Joas-github" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg">
+</div>
 
 
 
 # Estou aprendendo no momento
-<img align="center" alt="Joas-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Joas-css" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg">
-<img align="center" alt="Joas-javascript" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg">
-<img align="center" alt="Joas-tailwind" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/tailwindcss/tailwindcss-plain.svg">
-<img align="center" alt="Joas-react" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg">
-<img align="center" alt="Joas-r" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/r/r-original.svg">
-
+<div style="display: inline_block">
+    <img align="center" alt="Joas-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Joas-css" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Joas-javascript" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg">
+    <img align="center" alt="Joas-tailwind" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/tailwindcss/tailwindcss-plain.svg">
+    <img align="center" alt="Joas-react" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg">
+    <img align="center" alt="Joas-r" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/r/r-original.svg">
+</div>
 
 # Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/jo%C3%A1s-barros-907990172/)
