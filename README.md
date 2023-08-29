@@ -1,22 +1,22 @@
 # Olá mundo!!!
--  ### Meu nome é Joás, sou estudante do curso de ciência da computação na Universidade Federal e Rural do Semi-Arido (UFERSA) - Campus Mossoró, atualmente estou no primeiro periodo.
-- ### Nesse perfil do github, eu gostaria de compartilhar meus projetos pessoais, além daqueles densenvolvidos nas matérias da faculdade. Fora isso, gostaria tambem de contribuir em projetos Open Source.
-- ### Minha principais areas de interesse são o Backend e a ciência de dados.
+-   Meu nome é Joás, sou estudante do curso de ciência da computação na Universidade Federal e Rural do Semi-Arido (UFERSA) - Campus Mossoró, atualmente estou no primeiro periodo.
+-  Nesse perfil do github, eu gostaria de compartilhar meus projetos pessoais, além daqueles densenvolvidos nas matérias da faculdade. Fora isso, gostaria tambem de contribuir em projetos Open Source.
+-  Minha principais areas de interesse são o Backend e a ciência de dados.
 
 
-# Github stats
+## Github stats
 <div style="display: inline_block">
-    <img height="150 em" src="https://github-readme-stats.vercel.app/api?username=joas-barros&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true">
-    <img height="150 em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joas-barros&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF">
+    <img height="160 em" src="https://github-readme-stats.vercel.app/api?username=joas-barros&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true">
+    <img height="160 em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joas-barros&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF">
 </div>
 
 
-# Minhas Contribuições
+## Minhas Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=joas-barros&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/joas-barros/dio-lab-open-source)
 
 
 
-# Principais ferramentas
+## Principais ferramentas
 <div style="display: inline_block">
     <img align="center" alt="Joas-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
     <img align="center" alt="Joas-py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -28,7 +28,7 @@
 
 
 
-# Estou aprendendo no momento
+## Estou aprendendo no momento
 <div style="display: inline_block">
     <img align="center" alt="Joas-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Joas-css" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg">
@@ -38,7 +38,7 @@
     <img align="center" alt="Joas-r" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/r/r-original.svg">
 </div>
 
-# Conecte-se comigo
+## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/jo%C3%A1s-barros-907990172/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/joasgabriel/)
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail)](joas.sousa@alunos.ufersa.edu.br)
