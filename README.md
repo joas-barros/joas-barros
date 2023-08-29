@@ -1,13 +1,13 @@
 # Olá mundo!!!
--  Meu nome é Joás, sou estudante do curso de ciência da computação na Universidade Federal e Rural do Semi-Arido (UFERSA) - Campus Mossoró, atualmente estou no primeiro periodo.
--  Nesse perfil do github, eu gostaria de compartilhar meus projetos pessoais, além daqueles densenvolvidos nas matérias da faculdade. Fora isso, gostaria tambem de contribuir em projetos Open Source.
--  Minha principais areas de interesse são o Backend e a ciência de dados.
+-  ### Meu nome é Joás, sou estudante do curso de ciência da computação na Universidade Federal e Rural do Semi-Arido (UFERSA) - Campus Mossoró, atualmente estou no primeiro periodo.
+- ### Nesse perfil do github, eu gostaria de compartilhar meus projetos pessoais, além daqueles densenvolvidos nas matérias da faculdade. Fora isso, gostaria tambem de contribuir em projetos Open Source.
+- ### Minha principais areas de interesse são o Backend e a ciência de dados.
 
 
 # Github stats
 <div style="display: inline_block">
-    <img height="140 em" src="https://github-readme-stats.vercel.app/api?username=joas-barros&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true">
-    <img height="140 em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joas-barros&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF">
+    <img height="150 em" src="https://github-readme-stats.vercel.app/api?username=joas-barros&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true">
+    <img height="150 em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joas-barros&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF">
 </div>
 
 
