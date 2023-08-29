@@ -1,7 +1,7 @@
 # Olá mundo!!!
-- ### Meu nome é Joás, sou estudante do curso de ciência da computação na Universidade Federal e Rural do Semi-Arido (UFERSA) - Campus Mossoró, atualmente estou no primeiro periodo.
-- ### Nesse perfil do github, eu gostaria de compartilhar meus projetos pessoais, além daqueles densenvolvidos nas matérias da faculdade. Fora isso, gostaria tambem de contribuir em projetos Open Source.
-- ### Minha principais areas de interesse são o Backend e a ciência de dados.
+-  Meu nome é Joás, sou estudante do curso de ciência da computação na Universidade Federal e Rural do Semi-Arido (UFERSA) - Campus Mossoró, atualmente estou no primeiro periodo.
+-  Nesse perfil do github, eu gostaria de compartilhar meus projetos pessoais, além daqueles densenvolvidos nas matérias da faculdade. Fora isso, gostaria tambem de contribuir em projetos Open Source.
+-  Minha principais areas de interesse são o Backend e a ciência de dados.
 
 
 # Github stats
@@ -21,7 +21,7 @@
 <img align="center" alt="Joas-windowns" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"> 
 <img align="center" alt="Joas-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 <img align="center" alt="Joas-github" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg">
-<br></br>
+
 
 
 # Estou aprendendo no momento
@@ -31,7 +31,7 @@
 <img align="center" alt="Joas-tailwind" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/tailwindcss/tailwindcss-plain.svg">
 <img align="center" alt="Joas-react" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg">
 <img align="center" alt="Joas-r" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/r/r-original.svg">
-<br></br>
+
 
 # Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/jo%C3%A1s-barros-907990172/)
