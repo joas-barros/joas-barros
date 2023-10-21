@@ -36,6 +36,7 @@
     <img align="center" alt="Joas-tailwind" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/tailwindcss/tailwindcss-plain.svg">
     <img align="center" alt="Joas-react" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg">
     <img align="center" alt="Joas-r" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/r/r-original.svg">
+    <img align="center" alt="Joas-swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
 </div>
 
 ## Conecte-se comigo
